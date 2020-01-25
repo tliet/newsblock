@@ -1,5 +1,6 @@
 (^|\.)news$
 (^|\.)vk\.nl$
+(^|\.)persgroep\.nl$
 (^|\.)volkskrant\.nl$
 (^|\.)nrc\.nl$
 (^|\.)trouw\.nl$
