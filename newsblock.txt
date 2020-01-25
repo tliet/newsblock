@@ -1,3 +1,4 @@
+(^|\.)news$
 (^|\.)vk\.nl$
 (^|\.)volkskrant\.nl$
 (^|\.)nrc\.nl$
