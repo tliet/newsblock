@@ -69,3 +69,4 @@
 (^|\.)huffpost.co\.uk$
 (^|\.)metro.co\.uk$
 (^|\.)ft\.com$
+(^|\.)reddit\.com$
